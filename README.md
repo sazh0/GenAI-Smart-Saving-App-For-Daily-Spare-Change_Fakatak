@@ -22,11 +22,11 @@
 ---
 
 <div align="center">
-  <img src="images/AppPortfolio.gif" alt="Fakatak App Demo" width="97%"/>
+  <img src="images/FakatkApp.gif" alt="Fakatak App Demo" width="97%"/>
 </div>
 
 <div align="center">
-  <img src="images/Fakatkphones.png" alt="Fakatak Phone Mockups" width="97%"/>
+  <img src="images/FakatkUI.png" alt="Fakatak Phone Mockups" width="97%"/>
 </div>
 
 ---
